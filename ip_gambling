@@ -1,45 +1,60 @@
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
 
-add address=139.162.33.38 list=ajudi
-add address=139.162.8.47 list=ajudi
-add address=139.162.6.247 list=ajudi
-add address=172.104.36.178 list=ajudi
-add address=192.46.229.111 list=ajudi
-add address=139.162.41.226 list=ajudi
-add address=139.177.190.71 list=ajudi
-add address=172.105.112.128 list=ajudi
-add address=139.162.58.77 list=ajudi
-add address=139.162.25.235 list=ajudi
-add address=51.79.239.233 list=ajudi
-add address=202.95.19.121 list=ajudi
-add address=103.57.191.123 list=ajudi
-add address=202.95.10.156 list=ajudi
-add address=167.99.65.186 list=ajudi
-add address=216.83.47.48 list=ajudi
-add address=202.95.19.105 list=ajudi
-add address=216.83.47.168 list=ajudi
-add address=157.230.35.5 list=ajudi
-add address=128.199.127.22 list=ajudi
-add address=172.104.172.207 list=ajudi
-add address=104.21.57.72 list=ajudi
-add address=172.67.161.120 list=ajudi
-add address=139.177.184.125 list=ajudi
-add address=216.83.47.198 list=ajudi
-add address=180.215.200.39 list=ajudi
-add address=139.177.190.72 list=ajudi
-add address=202.95.10.157 list=ajudi
-add address=206.189.33.53 list=ajudi
-add address=180.215.200.10 list=ajudi
-add address=103.57.191.120 list=ajudi
-add address=216.83.47.66 list=ajudi
-add address=35.198.230.121 list=ajudi
-add address=35.247.188.193 list=ajudi
-add address=139.162.25.178 list=ajudi
-add address=35.187.239.166 list=ajudi
-add address=35.240.223.89 list=ajudi
-add address=172.104.117.20 list=ajudi
-add address=104.21.47.21 list=ajudi
-add address=172.67.170.13 list=ajudi
-add address=3.1.75.201 list=ajudi
-add address=36.255.140.205 list=ajudi
-add comment=domino99rajawali.com list=ajudi
-add address=178.128.48.21 list=ajudi
+0.0.0.0 3.1.75.201
+0.0.0.0 35.198.230.121
+0.0.0.0 35.187.239.166
+0.0.0.0 35.240.223.89
+0.0.0.0 35.247.188.193
+0.0.0.0 36.255.140.205
+0.0.0.0 51.79.239.233
+0.0.0.0 103.57.191.120
+0.0.0.0 103.57.191.123
+0.0.0.0 104.21.47.21
+0.0.0.0 104.21.57.72
+0.0.0.0 128.199.127.22
+0.0.0.0 139.162.6.247
+0.0.0.0 139.162.8.47
+0.0.0.0 139.162.25.178
+0.0.0.0 139.162.25.235
+0.0.0.0 139.162.33.38
+0.0.0.0 139.162.41.226
+0.0.0.0 139.162.58.77
+0.0.0.0 139.177.184.125
+0.0.0.0 139.177.190.71
+0.0.0.0 139.177.190.72
+0.0.0.0 157.230.35.5
+0.0.0.0 167.99.65.186
+0.0.0.0 172.67.161.120
+0.0.0.0 172.67.170.13
+0.0.0.0 172.104.36.178
+0.0.0.0 172.104.117.20
+0.0.0.0 172.105.112.128
+0.0.0.0 172.104.172.207
+0.0.0.0 178.128.48.21
+0.0.0.0 180.215.200.10
+0.0.0.0 180.215.200.39
+0.0.0.0 192.46.229.111
+0.0.0.0 202.95.19.121
+0.0.0.0 202.95.10.156
+0.0.0.0 202.95.10.157
+0.0.0.0 202.95.19.105
+0.0.0.0 206.189.33.53
+0.0.0.0 216.83.47.48
+0.0.0.0 216.83.47.66
+0.0.0.0 216.83.47.168
+0.0.0.0 216.83.47.198
+0.0.0.0 domino99rajawali.com
+
